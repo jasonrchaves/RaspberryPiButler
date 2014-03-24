@@ -14,7 +14,7 @@ Pianobar and gcalcli are installed on the Pi.
 The speech.sh script was obtained from http://elinux.org/RPi_Text_to_Speech_(Speech_Synthesis)
 
 This was something I built just for fun, and to put my Raspberry Pi to use.
-A video of it working all together is included.
+A video of it working can be found at https://www.dropbox.com/s/oukxhdlvhajgab1/demo.avi.
 This application was also made in a very hacky fashion, so please excuse me 
 if the code reflects that fact.
 
